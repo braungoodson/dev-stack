@@ -14,8 +14,8 @@ sudo apt-get -y install make
 sudo apt-get -y install g++
 sudo apt-get -y install git
 sudo apt-get -y install mongodb
-curl -O http://nodejs.org/dist/v0.10.24/node-v0.10.24-linux-x64.tar.gz
-tar -zxvf node-v0.10.24-linux-x64.tar.gz
+curl -O http://nodejs.org/dist/v0.11.9/node-v0.11.9-linux-x64.tar.gz
+tar -zxvf node-v0.11.9-linux-x64.tar.gz
 
 echo "# chsh override" >> ~/.bashrc
 echo "zsh" >> ~/.bashrc
