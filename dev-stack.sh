@@ -19,12 +19,6 @@ sudo apt-get -y install nodejs
 sudo apt-get -y update
 sudo apt-get -y install npm
 sudo apt-get -y update
-sudo apt-get -y install software-properties-common
-sudo apt-key adv --recv-keys --keyserver hkp://keyserver.ubuntu.com:80 0xcbcb082a1bb943db
-sudo add-apt-repository 'deb http://mirrors.syringanetworks.net/mariadb/repo/10.1/ubuntu trusty main'
-sudo apt-get -y update
-sudo apt-get -y install mariadb-server
-sudo apt-get -y update
 
 
 echo "\033[0;34m"'      .___                              __                 __    '"\033[0m"
