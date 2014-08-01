@@ -8,16 +8,12 @@ echo ""
 
 sudo apt-get -y update
 sudo apt-get -y install make
-sudo apt-get -y update
 sudo apt-get -y install g++
-sudo apt-get -y update
 sudo apt-get -y install git
-sudo apt-get -y update
 sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get -y update
 sudo apt-get -y install nodejs
-sudo apt-get -y update
 sudo apt-get -y install npm
+sudo apt-get -y install nginx
 sudo apt-get -y update
 
 
